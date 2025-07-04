@@ -71,6 +71,7 @@ let zigZag = (linhas) => {
 }
 
 console.log(zigZag(12))
+
 ```
 
 
