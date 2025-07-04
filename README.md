@@ -23,7 +23,7 @@ Isso se repetirá infinitamente (teoricamente), pode usar o caracter que quiser 
 
 
 # Codigo para web com input
-
+```
 //Versao do codigo para rodar na web com input
 
 const linhas = parseInt(prompt ('Insira o numero desejado'))
@@ -45,9 +45,13 @@ let zigZag = () => {
 
 console.log(zigZag())
 
+```
+
+
 
 # Codigo para leitor VSCode
 
+```
 //Versao para VSCode
 
 let posicaoCaracter = 0
@@ -67,4 +71,7 @@ let zigZag = (linhas) => {
 }
 
 console.log(zigZag(12))
+```
+
+
 
